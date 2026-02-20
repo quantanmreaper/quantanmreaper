@@ -1,116 +1,103 @@
-<!-- ====================================================== -->
-<!--                    BHAVIN MEPANI                       -->
-<!--              Systems Architect · AI in Progress        -->
-<!-- ====================================================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=140&section=header&text=Bhavin%20Mepani&fontSize=42&fontColor=E6C200&animation=fadeIn"/>
-</p>
+# Bhavin Mepani
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&duration=3500&pause=1200&color=E6C200&center=true&vCenter=true&width=600&lines=Engineering+Leverage.;Systems+Over+Noise.;Precision+as+a+Standard.;Intelligence+Architected." />
-</p>
+### Engineering Leverage
+
+</div>
 
 <br/>
-
-<p align="center">
-  <b>Full-Stack Systems Architect · AI & ML Specialization · Hackathon Leader</b>
-</p>
 
 ---
 
-<br/>
+## SYSTEMS. NOT FEATURES.
 
-## Ⅰ — PRESENCE
+I build systems that compound.
 
-I design systems that compound.
+Laravel is my structural backbone.  
+Python is my intelligence layer.  
 
-Not features.  
-Not trends.  
+I operate where backend architecture meets emerging AI.
 
-Systems.
-
-Laravel as structural backbone.  
-Python as the intelligence layer.  
-Discipline as the multiplier.
-
-Luxury is not decoration.
-
-Luxury is control.
+Not experimenting.  
+Specializing.
 
 ---
 
-<br/>
+## COMPETITIVE SIGNAL
 
-## Ⅱ — COMPETITIVE DNA
+Top-3 finish in every hackathon entered.
 
-<p align="center">
+But the medal is not the metric.
 
-🏆 Top-3 finish in every hackathon entered  
-🧠 Strategic team leadership under pressure  
-⚡ Rapid execution from concept → deployment  
+Leadership under compression is.
 
-</p>
-
-Hackathons are compressed startups.
-
-I build clarity inside chaos.
+I bring structure into chaos.  
+I turn time pressure into execution clarity.  
+I ship.
 
 ---
 
-<br/>
+## CURRENT DIRECTION
 
-## Ⅲ — ARCHITECTURE STACK
+Building a production-grade full-stack system at my internship.
 
-<p align="center">
+Designing scalable Laravel architecture.  
+Engineering clean admin intelligence with Filament.  
+Creating reactive interfaces with Livewire.  
 
-<img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=E6C200"/>
-<img src="https://img.shields.io/badge/Filament-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Livewire-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=E6C200"/>
-<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=E6C200"/>
+Parallel focus:
 
-</p>
-
-<p align="center">
-Architectural Backbone · Reactive Systems · Intelligent Infrastructure
-</p>
+Deep specialization in Python, AI & Machine Learning.  
+From using models → to architecting intelligent systems.
 
 ---
 
-<br/>
+## CORE STACK
 
-## Ⅳ — CURRENT FOCUS
+Laravel  
+Filament  
+Livewire  
+Python  
+FastAPI  
 
-Engineering a production-grade full-stack system at my internship:
-
-• Laravel architecture design  
-• Filament admin intelligence  
-• Livewire reactive UX  
-• RESTful integration patterns  
-
-Parallel specialization:
-
-> AI & Machine Learning  
-> Transitioning from using models → to engineering intelligent systems
+No clutter.  
+No trend-chasing.  
+Just tools that scale.
 
 ---
 
-<br/>
+## OPERATING PRINCIPLES
 
-## Ⅴ — SYSTEM METRICS
+Consistency compounds.  
+Discipline scales.  
+Systems outperform effort.  
+Intelligence reduces friction.  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quantanmreaper&show_icons=true&hide_border=true&bg_color=000000&title_color=E6C200&icon_color=E6C200&text_color=E6C200" />
-</p>
+Lazy — in repetition.  
+Relentless — in execution.  
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=quantanmreaper&hide_border=true&background=000000&ring=E6C200&fire=E6C200&currStreakLabel=E6C200" />
-</p>
+Deterministic by design.
 
 ---
 
-<br/>
+## LONG TERM
 
-## Ⅵ — OPERATING PRINCIPLES
+Full-Stack Systems  
+→ Intelligent Infrastructure  
+→ AI-Driven Platforms  
 
+I am not building projects.
+
+I am building capability.
+
+---
+
+<div align="center">
+
+If you value precision over noise —  
+let’s build.
+
+[LinkedIn](https://linkedin.com/in/Bhavin Mepani)
+
+</div>
