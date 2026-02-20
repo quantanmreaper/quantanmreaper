@@ -1,109 +1,191 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ───────────────────────────────────────────── -->
+<!--              BHAVIN MEPANI                   -->
+<!--        Digital Architect · Systems Mind      -->
+<!-- ───────────────────────────────────────────── -->
+
+<h1 align="center">Bhavin Mepani</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Bhavin%20Mepani&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <em>Engineering Leverage.</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Builder;Laravel+Ecosystem+Engineer;Python+in+Progress;Future+AI+Systems+Developer" />
+  Full-Stack Systems Architect · AI in Progress · Hackathon Strategist
+</p>
+
+<br/>
+
+---
+
+## 01 — Presence
+
+I build systems that think.
+
+Not just applications.  
+Not just features.  
+
+**Systems.**
+
+I operate at the intersection of structured backend architecture and emerging intelligence —  
+where Laravel meets Python, and logic meets leverage.
+
+Three constants define me:
+
+> Deterministic execution.  
+> Relentless consistency.  
+> Intelligence applied efficiently.
+
+I do not chase complexity.  
+I remove it.
+
+---
+
+## 02 — Philosophy
+
+I believe in:
+
+- Designing once. Scaling infinitely.
+- Doing hard things the smarter way.
+- Leading with clarity under pressure.
+- Turning constraints into unfair advantages.
+
+Luxury is not aesthetics.  
+Luxury is precision.
+
+---
+
+## 03 — Core Arsenal
+
+<p align="center">
+
+![Laravel](https://img.shields.io/badge/Laravel-Architectural%20Backbone-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-Admin%20Excellence-FFAA00?style=for-the-badge)
+![Livewire](https://img.shields.io/badge/Livewire-Reactive%20Systems-4e56a6?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Intelligence%20Layer-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-High%20Performance-005571?style=for-the-badge&logo=fastapi)
+
+</p>
+
+**Architecture First.  
+Intelligence Second.  
+Performance Always.**
+
+Currently specializing deeper into:
+
+`AI` · `Machine Learning` · `System Design` · `Advanced Backend Patterns`
+
+---
+
+## 04 — Competitive Edge
+
+🏆 **Top-3 finish in every hackathon entered.**
+
+But the headline is not the medal.
+
+It’s leadership.
+
+I lead teams with clarity, structure chaos into execution,  
+and ship under time pressure without compromise.
+
+Hackathons are not competitions.
+
+They are compressed simulations of real-world velocity.
+
+And I thrive in velocity.
+
+---
+
+## 05 — Building Now
+
+At my internship, I’m engineering a full-stack production system using:
+
+- Laravel as the structural backbone
+- Filament for intelligent admin systems
+- Livewire for reactive UX
+- RESTful architecture for scalable integration
+
+Parallel focus:
+
+> Deepening mastery in Python, AI & ML  
+> Transitioning from “using models” → to “engineering intelligence systems”
+
+The goal is not to learn AI.
+
+The goal is to **architect intelligent infrastructure.**
+
+---
+
+## 06 — Selected Work (Curated)
+
+### ◇ High-Performance Web Systems
+Production-grade full-stack architecture with clean separation of concerns and long-term scalability in mind.
+
+### ◇ Intelligent Automation
+Web scraping pipelines and data-driven workflows designed for strategic leverage.
+
+### ◇ Hackathon Systems
+Rapid product validation frameworks — from idea to deployment within hours.
+
+Each project is designed like a product launch.
+
+Intentional. Structured. Complete.
+
+---
+
+## 07 — Systems Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=quantanmreaper&show_icons=true&hide_border=true&theme=tokyonight" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=quantanmreaper&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
 
-## ⚡ Builder Mindset
+## 08 — Operating Principles
 
-I don’t just write code.  
-I design systems that win under pressure.
+- Consistency beats intensity.
+- Discipline compounds.
+- Simplicity scales.
+- Build once. Improve forever.
+- Think long term. Execute short term.
 
-- 🏆 Top-3 in every hackathon entered  
-- 🧠 Daily DSA discipline  
-- 🚀 Shipping production Laravel systems  
-- 🐍 Transitioning intentionally into Python + AI  
+Lazy — not in effort.  
+Lazy in unnecessary repetition.
 
-This is long-term trajectory — not experimentation.
-
----
-
-# 🔥 What I’m Building
-
-### 🏗 Production Web Systems
-Full-stack applications using:
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-Real architecture. Real constraints. Real users.
+If something can be automated, it must be.
 
 ---
 
-### 🐍 Python Evolution Track
+## 09 — The Direction
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+Full-Stack Systems → AI Infrastructure → Intelligent Platforms.
 
-- Built a web scraper from scratch  
-- Learning backend performance patterns  
-- Exploring ML foundations  
-- Preparing for AI-integrated systems  
+I am not building projects.
 
-Laravel built my foundation.  
-Python expands my range.
+I am building capability.
 
 ---
 
-# 🧠 Competitive Edge
+## 10 — Let’s Build the Future
 
-```
-Speed under pressure.
-Architecture under constraint.
-Execution without excuses.
-```
+If you are:
 
-Hackathons sharpened instinct.  
-DSA sharpens logic.  
-Production work sharpens judgment.
+- A recruiter looking for execution reliability  
+- A founder building something ambitious  
+- An investor backing technical clarity  
+- An open-source builder with vision  
 
----
-
-# 📊 GitHub Activity
+Let’s collaborate.
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=quantanmreaper&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=quantanmreaper&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantanmreaper&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🚀 Current Focus
-
-- FastAPI-based backend systems  
-- AI/ML integration projects  
-- Python-heavy collaboration  
-- High-performance hackathon teams  
-
-If you're building something ambitious,  
-let’s move fast.
-
----
-
-# 🌐 Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/Bhavin%20Mepani">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/Bhavin Mepani">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <sub>Engineered with intent.</sub>
 </p>
