@@ -1,15 +1,6 @@
 <div align="center">
 
-```
-██████╗ ██╗  ██╗ █████╗ ██╗   ██╗██╗███╗   ██╗
-██╔══██╗██║  ██║██╔══██╗██║   ██║██║████╗  ██║
-██████╔╝███████║███████║██║   ██║██║██╔██╗ ██║
-██╔══██╗██╔══██║██╔══██║╚██╗ ██╔╝██║██║╚██╗██║
-██████╔╝██║  ██║██║  ██║ ╚████╔╝ ██║██║ ╚████║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
-```
-
-### Engineering Leverage
+### Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavin_Mepani-7f5af0?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavinmepani)
 [![Laravel](https://img.shields.io/badge/Laravel-Backbone-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
