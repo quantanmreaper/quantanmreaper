@@ -1,160 +1,109 @@
-<!-- ===================================================== -->
-<!--                 BHAVIN MEPANI                         -->
-<!-- ===================================================== -->
+<!-- ===================== HEADER ===================== -->
 
-<h1 align="center">Bhavin Mepani</h1>
 <p align="center">
-  Full-Stack Builder • Python in Progress • Hackathon Weapon
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Bhavin%20Mepani&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Builder;Laravel+Ecosystem+Engineer;Python+in+Progress;Future+AI+Systems+Developer" />
 </p>
 
 ---
 
-## I don’t just build projects.  
-I build leverage.
+## ⚡ Builder Mindset
 
-Full-stack web systems in production.  
-Python systems in evolution.  
-AI capability loading.
+I don’t just write code.  
+I design systems that win under pressure.
 
-Currently operating at the intersection of:
-- Shipping real Laravel applications
-- Grinding DSA daily
-- Transitioning toward Python + FastAPI + AI systems
-- Winning under pressure (Top-3 in every hackathon entered)
+- 🏆 Top-3 in every hackathon entered  
+- 🧠 Daily DSA discipline  
+- 🚀 Shipping production Laravel systems  
+- 🐍 Transitioning intentionally into Python + AI  
 
-This is not experimentation.  
-This is trajectory.
+This is long-term trajectory — not experimentation.
 
 ---
 
-# ⚡ What I’m Building
+# 🔥 What I’m Building
 
-### 01 — Production-Grade Web Systems
-At my internship, I engineered a full-stack web application using:
-- Laravel
-- Filament
-- Livewire
+### 🏗 Production Web Systems
+Full-stack applications using:
 
-Clean architecture. Practical business logic. Real users.
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Not tutorials. Not clones. Systems.
-
----
-
-### 02 — Python Infrastructure Mode
-Outside work:
-- Built a web scraper from scratch
-- Exploring FastAPI & Django deeply
-- Strengthening backend architecture patterns
-- Studying system design fundamentals
-
-The goal isn’t to “learn Python.”
-
-The goal is to **operate fluently in it.**
+Real architecture. Real constraints. Real users.
 
 ---
 
-### 03 — Algorithmic Discipline
-Daily DSA.
-Structured problem solving.
-LeetCode consistency.
+### 🐍 Python Evolution Track
 
-This is competitive conditioning.
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
----
+- Built a web scraper from scratch  
+- Learning backend performance patterns  
+- Exploring ML foundations  
+- Preparing for AI-integrated systems  
 
-# 🧠 Edge & Competitive Advantage
-
-🏆 Top-3 finish in every hackathon entered.
-
-That’s not luck.  
-That’s speed, clarity, and execution under constraint.
-
-I optimize for:
-- Rapid MVP thinking
-- Clean architecture under time pressure
-- Strategic feature selection
-- Pitch positioning
-
-I build to win.
+Laravel built my foundation.  
+Python expands my range.
 
 ---
 
-# 🚀 Evolution Arc
+# 🧠 Competitive Edge
 
-**Phase 1:** Full-Stack Laravel Ecosystem  
-**Phase 2 (Current):** Python Backend Mastery  
-**Phase 3 (Incoming):** AI Systems & ML Integration  
+```
+Speed under pressure.
+Architecture under constraint.
+Execution without excuses.
+```
 
-Stacking skills deliberately.  
-Expanding surface area.  
-Increasing technical range.
-
-The long game is clear.
-
----
-
-# 🛠 Tech Stack
-
-## Core Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4e56a6?style=flat&logo=livewire&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-FFAA00?style=flat)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-## Python & AI Track
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-## Frontend
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-## Infrastructure
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white)
+Hackathons sharpened instinct.  
+DSA sharpens logic.  
+Production work sharpens judgment.
 
 ---
 
-# 📊 Signal, Not Noise
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quantanmreaper&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=quantanmreaper&theme=gruvbox&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=quantanmreaper&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=quantanmreaper&theme=tokyonight&hide_border=true" />
 </p>
 
-Consistency > spikes.
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantanmreaper&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-# 🤝 Let’s Build
+# 🚀 Current Focus
 
-I’m actively looking for:
-- Python backend collaboration
-- FastAPI-based systems
-- AI-integrated products
-- High-performance hackathon teams
-- Builders who move fast
+- FastAPI-based backend systems  
+- AI/ML integration projects  
+- Python-heavy collaboration  
+- High-performance hackathon teams  
 
-If you’re building something ambitious —  
-I want in.
+If you're building something ambitious,  
+let’s move fast.
 
 ---
 
-## 🌐 Connect
+# 🌐 Connect
 
-[LinkedIn](https://linkedin.com/in/Bhavin%20Mepani)
+<p align="center">
+  <a href="https://linkedin.com/in/Bhavin%20Mepani">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<sub>
-Focused. Competitive. Scaling.
-</sub>
-
-<!-- End of README -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
