@@ -117,11 +117,7 @@ But the medal is not the metric. **Leadership under compression** is.
 
 </div>
 
-<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=quantanmreaper&theme=midnight-purple&hide_border=true&background=0f0f15&ring=7f5af0&fire=b692f6&currStreakLabel=7f5af0)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
