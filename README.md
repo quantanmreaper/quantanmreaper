@@ -107,7 +107,7 @@ But the medal is not the metric. **Leadership under compression** is.
 </table>
 ---
 
-## 〔 06 〕Operating Principles
+## 〔 05 〕Operating Principles
 
 <div align="center">
 
@@ -123,12 +123,11 @@ But the medal is not the metric. **Leadership under compression** is.
 ```
 
 </div>
-
-**Lazy** — in repetition. &nbsp;|&nbsp; **Relentless** — in execution. &nbsp;|&nbsp; **Deterministic** — by design.
+&nbsp; **Relentless** — in execution. &nbsp;|&nbsp; **Deterministic** — by design.
 
 ---
 
-## 〔 07 〕Long Term
+## 〔 06 〕Long Term
 
 <div align="center">
 
