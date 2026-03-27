@@ -105,20 +105,6 @@ But the medal is not the metric. **Leadership under compression** is.
 </td>
 </tr>
 </table>
-
----
-
-## 〔 05 〕GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=quantanmreaper&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0f15&title_color=7f5af0&icon_color=b692f6&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantanmreaper&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0f15&title_color=7f5af0&text_color=ffffff"/>
-
-</div>
-
-
-
 ---
 
 ## 〔 06 〕Operating Principles
