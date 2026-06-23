@@ -182,6 +182,12 @@ at a scale where architecture decisions are measured in **millions of users** an
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=quantanmreaper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7f5af0&icon_color=b692f6&text_color=ffffff&ring_color=7f5af0&count_private=true&include_all_commits=true" width="60%"/>
+
+</div>
+
+<div align="center">
+
 <img src="generated/github-stats.svg" width="95%"/>
 
 </div>
