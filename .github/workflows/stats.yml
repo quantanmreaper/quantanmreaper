@@ -8,9 +8,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: anuraghazra/github-readme-stats@master
+
+      - name: Generate Stats Images
+        uses: lowlighter/metrics@latest
         with:
-          USERNAME: quantanmreaper
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: quantanmreaper
+          template: classic
+          base: header, activity, community, repositories
+          output_action: gist
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          filename: github-stats.svg
+          config_timezone: Africa/Nairobi
+          plugin_languages: yes
+          plugin_languages_limit: 20
+          plugin_languages_details: percentage
