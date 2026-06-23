@@ -174,6 +174,9 @@ Full-Stack Systems  ──▶  Intelligent Infrastructure  ──▶  AI-Driven 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantanmreaper&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=7f5af0&text_color=ffffff&langs_count=20" alt="Top Languages" />
 </p>
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=quantanmreaper&theme=dark&background=0d0d0d&ring=7f5af0&fire=b692f6&currStreakLabel=7f5af0&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=quantanmreaper&bg_color=0d0d0d&color=b692f6&line=7f5af0&point=ffffff&area=true&area_color=7f5af0&hide_border=true&radius=8" alt="Contribution Graph" />
 </p>
 
