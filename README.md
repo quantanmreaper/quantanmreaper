@@ -166,22 +166,16 @@ Full-Stack Systems  ──▶  Intelligent Infrastructure  ──▶  AI-Driven 
 
 ---
 
-## 〔 07 〕GitHub Status
+## 〔 07 〕GitHub Signal
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=quantanmreaper&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=7f5af0&icon_color=b692f6&text_color=ffffff&ring_color=7f5af0&count_private=true&include_all_commits=true" width="49%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantanmreaper&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=7f5af0&text_color=ffffff&langs_count=20" width="40%" />
-
-</div>
-
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=quantanmreaper&bg_color=0d0d0d&color=b692f6&line=7f5af0&point=ffffff&area=true&area_color=7f5af0&hide_border=true&radius=8" width="95%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=quantanmreaper&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=7f5af0&icon_color=b692f6&text_color=ffffff&ring_color=7f5af0&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantanmreaper&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=7f5af0&text_color=ffffff&langs_count=20" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quantanmreaper&bg_color=0d0d0d&color=b692f6&line=7f5af0&point=ffffff&area=true&area_color=7f5af0&hide_border=true&radius=8" alt="Contribution Graph" />
+</p>
 
 ---
 
