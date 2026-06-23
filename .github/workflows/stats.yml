@@ -20,9 +20,9 @@ jobs:
           user: quantanmreaper
           template: classic
           base: header, activity, community, repositories
-          output_action: gist
+          output_action: commit
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          filename: github-stats.svg
+          filename: generated/github-stats.svg
           config_timezone: Africa/Nairobi
           plugin_languages: yes
           plugin_languages_limit: 20
