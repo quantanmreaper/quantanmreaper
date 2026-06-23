@@ -176,11 +176,6 @@ Full-Stack Systems  ──▶  Intelligent Infrastructure  ──▶  AI-Driven 
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=quantanmreaper&theme=tokyonight&background=0d0d0d&ring=7f5af0&fire=b692f6&currStreakLabel=7f5af0&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&hide_border=true" width="60%"/>
-
-</div>
 
 <div align="center">
 
