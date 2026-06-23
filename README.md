@@ -182,19 +182,13 @@ at a scale where architecture decisions are measured in **millions of users** an
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=quantanmreaper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7f5af0&icon_color=b692f6&text_color=ffffff&ring_color=7f5af0&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="60%"/>
+<img src="generated/github-stats.svg" width="95%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=quantanmreaper&bg_color=0d0d0d&color=b692f6&line=7f5af0&point=ffffff&area=true&area_color=7f5af0&hide_border=true&radius=8" width="95%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantanmreaper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7f5af0&text_color=ffffff&langs_count=20&hide_progress=false" width="60%"/>
+<img src="https://ghchart.rshah.org/7f5af0/quantanmreaper" width="95%"/>
 
 </div>
 
