@@ -188,7 +188,13 @@ at a scale where architecture decisions are measured in **millions of users** an
 
 <div align="center">
 
-<img src="generated/github-stats.svg" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantanmreaper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7f5af0&text_color=ffffff" width="45%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=quantanmreaper&bg_color=0d0d0d&color=b692f6&line=7f5af0&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
