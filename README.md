@@ -68,7 +68,6 @@ But the medal is not the metric. **Leadership under compression** is.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
@@ -110,22 +109,22 @@ But the medal is not the metric. **Leadership under compression** is.
 <tr>
 <td width="50%">
 
-**🤖 AI & Intelligence**
-> Building toward production-grade AI systems
+**🔧 At Internship**
+> Production-grade full-stack system
 
-- Deep specialization in **AI & Machine Learning**
-- Implementing **RAG** pipelines and retrieval systems
-- Moving from *using* models → *owning* the architecture
+- Designing scalable **Laravel** architecture
+- Engineering admin intelligence with **Filament**
+- Building reactive interfaces with **Livewire**
 
 </td>
 <td width="50%">
 
-**🏗️ Systems & Scale**
-> Engineering foundations that don't break
+**🧠 Parallel Focus**
+> Deepening the intelligence layer
 
-- **Cloud infrastructure** design and deployment
-- **Systems Engineering** — reliability, observability, resilience
-- Reading and applying **system design & architecture** patterns for scale
+- Deep specialization in **Python, AI & ML**
+- From *using* models
+- → to *architecting* intelligent systems
 
 </td>
 </tr>
@@ -158,49 +157,26 @@ But the medal is not the metric. **Leadership under compression** is.
 <div align="center">
 
 ```
-Systems Mastery  ──▶  AI Infrastructure at Scale  ──▶  Platforms That Define the Stack
+Full-Stack Systems  ──▶  Intelligent Infrastructure  ──▶  AI-Driven Platforms
 ```
 
-</div>
-
-<div align="center">
-
-The trajectory is not a career ladder. It is a **conviction**.
-
-Most engineers build on top of the stack.  
-I intend to **be** part of it —  
-designing the infrastructure that intelligent systems run on,  
-at a scale where architecture decisions are measured in **millions of users** and **billions of inferences**.
-
-*The goal is not a title. The goal is **irreplaceable leverage**.*
+*I am not building projects. I am building **capability**.*
 
 </div>
 
 ---
 
-## 〔 07 〕GitHub Stats
+## 〔 07 〕GitHub Signal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=quantanmreaper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7f5af0&icon_color=b692f6&text_color=ffffff&ring_color=7f5af0&count_private=true&include_all_commits=true" width="60%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=quantanmreaper&bg_color=0d0d0d&color=b692f6&line=7f5af0&point=ffffff&area=true&area_color=7f5af0&hide_border=true&radius=8" width="95%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantanmreaper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7f5af0&text_color=ffffff" width="45%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=quantanmreaper&bg_color=0d0d0d&color=b692f6&line=7f5af0&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/7f5af0/quantanmreaper" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantanmreaper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7f5af0&text_color=ffffff&langs_count=20&hide_progress=false" width="60%"/>
 
 </div>
 
