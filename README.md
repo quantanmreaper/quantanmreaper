@@ -68,6 +68,7 @@ But the medal is not the metric. **Leadership under compression** is.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
@@ -109,22 +110,22 @@ But the medal is not the metric. **Leadership under compression** is.
 <tr>
 <td width="50%">
 
-**🔧 At Internship**
-> Production-grade full-stack system
+**🤖 AI & Intelligence**
+> Building toward production-grade AI systems
 
-- Designing scalable **Laravel** architecture
-- Engineering admin intelligence with **Filament**
-- Building reactive interfaces with **Livewire**
+- Deep specialization in **AI & Machine Learning**
+- Implementing **RAG** pipelines and retrieval systems
+- Moving from *using* models → *owning* the architecture
 
 </td>
 <td width="50%">
 
-**🧠 Parallel Focus**
-> Deepening the intelligence layer
+**🏗️ Systems & Scale**
+> Engineering foundations that don't break
 
-- Deep specialization in **Python, AI & ML**
-- From *using* models
-- → to *architecting* intelligent systems
+- **Cloud infrastructure** design and deployment
+- **Systems Engineering** — reliability, observability, resilience
+- Reading and applying **system design & architecture** patterns for scale
 
 </td>
 </tr>
@@ -157,16 +158,27 @@ But the medal is not the metric. **Leadership under compression** is.
 <div align="center">
 
 ```
-Full-Stack Systems  ──▶  Intelligent Infrastructure  ──▶  AI-Driven Platforms
+Systems Mastery  ──▶  AI Infrastructure at Scale  ──▶  Platforms That Define the Stack
 ```
 
-*I am not building projects. I am building **capability**.*
+</div>
+
+<div align="center">
+
+The trajectory is not a career ladder. It is a **conviction**.
+
+Most engineers build on top of the stack.  
+I intend to **be** part of it —  
+designing the infrastructure that intelligent systems run on,  
+at a scale where architecture decisions are measured in **millions of users** and **billions of inferences**.
+
+*The goal is not a title. The goal is **irreplaceable leverage**.*
 
 </div>
 
 ---
 
-## 〔 07 〕GitHub Signal
+## 〔 07 〕GitHub Stats
 
 <div align="center">
 
