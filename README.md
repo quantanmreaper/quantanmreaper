@@ -170,13 +170,21 @@ Full-Stack Systems  ──▶  Intelligent Infrastructure  ──▶  AI-Driven 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=quantanmreaper&bg_color=0d0d0d&color=b692f6&line=7f5af0&point=ffffff&area=true&area_color=7f5af0&hide_border=true&radius=8" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=quantanmreaper&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=7f5af0&icon_color=b692f6&text_color=ffffff&ring_color=7f5af0&count_private=true&include_all_commits=true" width="49%" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantanmreaper&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=7f5af0&text_color=ffffff&langs_count=20" width="40%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantanmreaper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7f5af0&text_color=ffffff&langs_count=20&hide_progress=false" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=quantanmreaper&theme=tokyonight&background=0d0d0d&ring=7f5af0&fire=b692f6&currStreakLabel=7f5af0&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&hide_border=true" width="60%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=quantanmreaper&bg_color=0d0d0d&color=b692f6&line=7f5af0&point=ffffff&area=true&area_color=7f5af0&hide_border=true&radius=8" width="95%"/>
 
 </div>
 
